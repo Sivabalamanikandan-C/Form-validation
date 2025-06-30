@@ -59,4 +59,6 @@ submitbtn.addEventListener("click",(event)=>{
             confirmButtonText: "OK",
         });
     }
+
+    name.value="";
 })

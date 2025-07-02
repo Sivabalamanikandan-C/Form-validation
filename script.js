@@ -61,4 +61,5 @@ submitbtn.addEventListener("click",(event)=>{
     }
 
     name.value="";
+    email.value="";
 })

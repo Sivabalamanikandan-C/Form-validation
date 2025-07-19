@@ -4,6 +4,7 @@ const submitbtn=document.getElementById("submitbtn");
 submitbtn.addEventListener("click",(event)=>{
     event.preventDefault();
 
+    // Regular Expressions
     var nameregexp=/^[a-zA-Z]+$/;
     var emailregexp=/^[a-zA-Z0-9]+@gmail\.com$/;
     var phnoregexp=/^\d{10}$/;

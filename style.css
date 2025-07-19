@@ -1,5 +1,5 @@
 .name-error, .email-error, .phno-error{
     color: red;
     display: none;
-    margin-top: 3px;
+    margin-top: 5px;
 }
